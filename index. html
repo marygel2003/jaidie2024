@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>  
+ <title>FLOWERS</title>
+<h1> JAIDIE AMABA GRADE 12 - EMERALD</h1>  
+
+  <center><h2 style= "font-size: 60px; color: violet;">  TULIPS   </h2> </center>
+  
+  
+<center><p  style= "font-size: 40px;" > <em><strong>In the realm where dawn tiptoes in on hues of whispered promises, tulips emerge as nature's own kaleidoscope, each petal a stroke in her masterpiece of colors. From the earth's embrace, they rise, unfolding tales of ancient elegance and whispered secrets. Their stems, like ballet dancers in the morning mist, sway to a silent symphony, weaving dreams into the tapestry of the landscape. With each delicate curve and vibrant hue, they paint poetry upon the canvas of the day, inviting weary souls to wander through their labyrinth of wonders. As the sun's warm embrace ignites their petals, they exhale stories of passion and renewal, their beauty a symphony of fragility and resilience. In the language of petals, the tulip murmurs tales of love's fervor and the eternal cycle of beginnings, a living testament to the enchantment that thrives in the heart of every bloom. </em></strong></p> </center>
+
+ 
+ <center><img src="tulips.jpeg" alt "Picture"
+height=500px;width=500px; > </center>
+ 
+<style>
+
+ body{ 
+  background-image: url('' ); 
+   background-repeat: no repeat;
+    background-attachment: fixed;
+  background-size: 100% 100%;
+ background-color:pink;
+ 
+}
+      
+
+
+h1 {
+  color: black;
+  font-family: em;
+  text-align:left;
+  font-size: 20px;
+  
+ 
+   
+  </style> 
+  
+ 
+ 
+  </head> 
+  
+ <p> <center>Click <a href="https://1.bp.blogspot.com/-DuUmOX7ByvE/UaCOO9DGkBI/AAAAAAAAH1g/7u6wntK52_A/s1600/White+Tulip+Flower+07.jpg">this link to see more kinds of tulip.</center> </p> 
+    
+    
+    
+
+
+
+
+</body>
+</html>
